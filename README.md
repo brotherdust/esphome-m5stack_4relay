@@ -1,0 +1,1 @@
+This is a custom component for ESPHome to support the M5Stack 4Relay module
